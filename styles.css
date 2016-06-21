@@ -27,3 +27,17 @@ html, body {
 .buttons-holder {
 	float: right;
 }
+.list{
+	color: white;
+	padding: 10px;
+}
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}
+
+li {
+	list-style-type: none;
+}
